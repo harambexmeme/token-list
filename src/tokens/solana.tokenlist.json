@@ -630,6 +630,7 @@
         "bridgeContract": "https://bscscan.com/address/0xB6F6D86a8f9879A9c87f643768d9efc38c1Da6E7",
         "twitter": "https://twitter.com/flokimuskmeme",
         "website": "https://flokimuskweb.com"
+Ctrl + _ → 999999 → Enter
       }
     },
     {
@@ -790,7 +791,7 @@
       ],
       "extensions": {
         "coingeckoId": "buff-samo",
-        "coinmarketcap": "https://coinmarketcap.com/currencies/buff-samo/",
+Ctrl + _ → 999999 → Enter        "coinmarketcap": "https://coinmarketcap.com/currencies/buff-samo/",
         "discord": "https://discord.link/BuffSamo",
         "twitter": "https://twitter.com/buffsamo",
         "website": "http://buffsamo.tech/"
@@ -889,6 +890,8 @@
       }
     },
     {
+Ctrl + _ 999999
+
       "chainId": 102,
       "address": "8ZY7EkwN7LxifYvvrQDbpjqxkrjHUFMwWgq8fupNNvub",
       "symbol": "BIAD",
@@ -914,6 +917,19 @@
       "extensions": {
         "twitter": "https://twitter.com/solanadonkeBs",
         "website": "https://solanadonkey.business"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "2cRJRqkEhwbv5jr5izgEDprbJpdWEUAXA4E5qiG9tE3L",
+      "symbol": "HRMBX",
+      "name": "Harambe X",
+      "decimals": 9,
+      "logoURI": "https://ipfs.io/ipfs/bafkreifkxp4j6phvdl4sxgya6qqic5jpkdbz2hbknzwzz6zeeentkbm44i",
+      "tags": ["meme"],
+      "extensions": {
+        "twitter": "https://twitter.com/harambexmeme",
+        "website": "https://harambex.com"
       }
     },
     {
